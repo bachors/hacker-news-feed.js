@@ -16,3 +16,5 @@ Result:
 <h3>Sample:</h3>
 <pre>var result = hnfeed('news');
 console.log(JSON.stringify(result, null, 2));</pre>
+
+<h3><a href="http://ibacor.com/feed/hacker-news">DEMO</a></h3>
