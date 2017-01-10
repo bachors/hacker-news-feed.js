@@ -1,6 +1,6 @@
 /************************************************
  * #### hacker-news-feed.js ####
- * Coded by Ican Bachors 2016.
+ * Coded by Ican Bachors 2017.
  * http://ibacor.com/labs/hacker-news-feed-js
  * Updates will be posted to this site.
  
